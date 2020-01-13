@@ -9,3 +9,8 @@ Get started by installing the module on the Raspberry Pi using pip:
 <div class="highlight highlight-source-shell"><pre>
 python3 -m pip install --no-deps adafruit_rplidar
 </pre></div>
+
+Raspberry Pi list usb serial port command
+<div class="highlight highlight-source-shell"><pre>
+ls /dev/*USB*
+</pre></div>
