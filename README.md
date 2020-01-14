@@ -17,4 +17,4 @@ Raspberry Pi list usb serial port command
 <div class="highlight highlight-source-shell"><pre>
 ls /dev/*USB*
 </pre></div>
-[![Maker Tutor](https://img.youtube.com/vi/t0ud9HTYjMI/0.jpg)](https://www.youtube.com/watch?v=t0ud9HTYjMI)
+[![Maker Tutor](https://img.youtube.com/vi/dKzCZhnLUyc/0.jpg)](https://www.youtube.com/watch?v=dKzCZhnLUyc)
